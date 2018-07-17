@@ -1,0 +1,2 @@
+# Text-Classification-Based-on-Similarity-measurement
+The whole project focus on the development of the core algorithm of the knowledge graph. Based on the similarity classification method, I explore various algorithms for unknown entities and attributes and try to establish word embedding on the comment data. To enhance the training model of word2vec, the results of Deep parser have been integrated into the word2vec trainer in Deeplearning4j. 
